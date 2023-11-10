@@ -1,0 +1,102 @@
+100 small console software project ideas to spark your creativity:
+
+ASCII art generator
+Task manager------------>Done
+Contact book
+Basic calculator--------->Done
+Unit converter
+Random number generator
+Currency converter---------->Done
+Password generator
+Text-based adventure game
+Word counter
+Calendar app
+To-do list app------------>Done(Same as Task manager)
+Quiz game
+Countdown timer
+Simple budget tracker
+File renamer-------------->Done
+Advanced text editor-------------------->Done
+Morse code translator
+Language flashcards
+Personal diary
+Note-taking app
+Binary/decimal converter
+Palindrome checker
+Basic weather app----------------------->Done
+Rock-paper-scissors game
+Tic-tac-toe game
+ASCII maze generator
+Simple chatbot
+Guess the number game
+Morse code quiz
+Basic contact manager
+Random password generator
+Anagrams finder
+Hangman game
+Roman numeral converter
+Fahrenheit-Celsius converter
+Alarm clock
+Chess game (basic moves)
+Basic text-based RPG
+Text-based card game (e.g., blackjack)
+ASCII art animation
+Basic math quiz
+ASCII pie chart generator
+Simple encryption/decryption tool
+Console-based music player (play predefined tracks)
+ASCII art emoticon generator
+Mad Libs game
+Basic file manager
+Morse code communication tool (send/receive)
+Basic maze solver
+Simple code snippet manager
+Basic command-line calculator
+Morse code Morse trainer
+ASCII art signature generator
+Daily inspiration quote generator
+Hangman word list manager
+Text-based puzzle game
+Basic file compression tool
+Task priority manager
+ASCII art birthday card generator
+Console-based file backup tool
+Basic encryption message sender/receiver
+Language learning flashcard quiz
+Morse code sound generator
+Simple console-based RPG battle simulator
+Crossword puzzle generator
+ASCII art maze solver
+Basic file comparison tool
+ASCII art calendar generator
+Morse code visualizer (LEDs or text)
+Simple address book
+ASCII art holiday card generator
+Text-based maze game
+ASCII art character viewer
+Morse code translator with sound playback
+Simple budget calculator
+Basic ASCII art gallery viewer
+Simple Morse code learning tool
+Console-based quiz show game
+Basic text-based strategy game
+Morse code message decoder
+ASCII art puzzle generator
+Simple Morse code radio transmitter
+Basic ASCII art animation viewer
+Text-based art gallery viewer
+Morse code signal lights simulator
+ASCII art slide show viewer
+Simple Morse code flashlight transmitter
+Basic ASCII art comic strip viewer
+Console-based Morse code telegraph
+Simple ASCII art story viewer
+Morse code sound player/receiver
+Basic Morse code message sender/receiver
+Console-based Morse code translator
+ASCII art greeting card generator
+Simple Morse code practice tool
+Console-based Morse code communication
+Morse code sound recognition trainer
+ASCII art scene viewer
+Morse code quiz game
